@@ -1,0 +1,9 @@
+{
+  "comment": "Relaxed rules matching GitHub Skills course-template conventions.",
+  "default": true,
+  "MD013": false,
+  "MD033": false,
+  "MD041": false,
+  "MD034": false,
+  "MD040": false
+}

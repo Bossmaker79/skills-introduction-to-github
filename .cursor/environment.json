@@ -1,0 +1,11 @@
+{
+  "name": "Introduction to GitHub (course content)",
+  "install": ".cursor/install.sh",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": ".cursor/preview.sh"
+    }
+  ],
+  "ports": [6419]
+}
